@@ -1,5 +1,3 @@
-#https://www.youtube.com/watch?v=DLAcS1kkFvY
-
 #Hide useless warnings
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
@@ -91,4 +89,5 @@ print("prediction\t"+str(prediction))
 #     sleep(4)
 
 # print(round(old_model.predict(test_data.reshape(5))))
+
 print("All is well")
