@@ -1,0 +1,17 @@
+    public static void bubbleSortR(int[] array){
+        bubbleSortR(array,0);
+    }
+
+    private static void bubbleSortR(int[] array, int index){
+        if(index!=array.length){
+            for(int j=0;j<array.length-1-index;++j){
+                if(array[j]>array[j+1]){
+                    int temp=array[j];
+                    array[j]=array[j+1];
+                    array[j+1]=temp;
+                }
+            }
+            bubbleSortR(array,index+1);
+        }            
+
+    }

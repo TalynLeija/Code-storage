@@ -1,0 +1,5 @@
+Bubble sort nano seconds (more than ten minutes)
+Selection sort nano seconds 714635874800
+Insertion sort nano seconds 279363315600
+Merge sort nano seconds 430977600
+Quick sort nano seconds 187393500
