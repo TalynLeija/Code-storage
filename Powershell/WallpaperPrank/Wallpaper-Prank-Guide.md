@@ -15,16 +15,20 @@ This project involves running a powershell script on a windows 10 computer that 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Screenshot%20(10).png" height="80%" width="80%"/>
 <br />
 <br />
 Select the disk:  <br/>
 
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Original_Wallpaper.png" height="80%" width="80%"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Screenshot%20(8).png" height="80%" width="80%""/>
+<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Screenshot%20(9).png" height="80%" width="80%""/>
+<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Screenshot_of_Folder.png" height="80%" width="80%""/>
+<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/blob/main/Screenshot_of_script.png" height="80%" width="80%""/>
+
 </p>
 
 <!--
