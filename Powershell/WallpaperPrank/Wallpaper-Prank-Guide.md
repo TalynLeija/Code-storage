@@ -14,21 +14,23 @@ This project involves running a powershell script on a windows 10 computer that 
 <h2>How to use</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Screenshot%20(10).png" height="80%" width="80%"/>
+This is my wallpaper before I downloaded the script. Right click the script and hit run as powershell: <br/>
+<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Screenshot%20(8).png" height="80%" width="80%"/>
 <br />
-<br />
-Select the disk:  <br/>
+Just like that the script is sceduled to keep changing the wallpaper. Also if you noticed the script disapeared thats because it moved itself to a seperate folder:  <br/>
+<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Screenshot%20(9).png" height="80%" width="80%"/> 
+</p>
 
-<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Original_Wallpaper.png" height="80%" width="80%"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Screenshot%20(8).png" height="80%" width="80%""/>
-<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Screenshot%20(9).png" height="80%" width="80%""/>
-<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Screenshot_of_Folder.png" height="80%" width="80%""/>
-<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/blob/main/Screenshot_of_script.png" height="80%" width="80%""/>
+<h2>Delete when done</h2>
 
+<p align="center">
+Running the script is easier then deleteing it, especially for those that are not tech savy. To delete the script simply run the command below in powershell:<br />
+<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Ending_script.png" height="80%" width="80%"/>
+
+Once the script stops running all that's left is to clean up the original script. Head over to File Explorer and type C:\SecretFolder and delete the folder were the image and script is being stored:<br />
+
+<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Screenshot_of_Folder.png" height="80%" width="80%"/>
+<img src="https://raw.githubusercontent.com/TalynLeija/MyImages/main/Screenshot_of_script.png" height="80%" width="80%"/> 
 </p>
 
 <!--
