@@ -1,5 +1,5 @@
 <h1>Wallpaper Prank Setup</h1>
-
+<!-- Unregister-ScheduledTask -TaskName 'WallpaperPrank' -Confirm:$false -->
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
