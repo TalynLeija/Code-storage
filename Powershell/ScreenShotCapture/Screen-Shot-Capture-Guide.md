@@ -1,7 +1,7 @@
 <h1>Scheduled screen shot capture</h1>
 
 <h2>Description</h2>
-This project works uses a powershell script on Windows 10 to automate screenshot capture. It doesn't serve any particular purpose unless you want to spy on someone. It takes screenshots every 30-minutes and saves them to a folder newly created folder on the C: drive.
+This project uses a powershell script on Windows 10 to automate screenshot capture. With a little tweaking it would be a good tool to use to spy on someone. It takes screenshots every 30-minutes and saves them to a folder newly created folder on the C: drive.
 <br />
 
 <h2>Requirements</h2>
