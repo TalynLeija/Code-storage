@@ -1,5 +1,4 @@
 <h1>Scheduled screen shot capture</h1>
-<!-- https://raw.githubusercontent.com/TalynLeija/Code-storage/main/Powershell/WallpaperPrank/ProfesionalTroll.jpg -->
 
 <h2>Description</h2>
 This project works on Windows 10 to automate screenshot capture. It doesn't serve any particular use unless you want to spy on someone. It takes screenshots every 30-minutes and saves them to a folder on the C: drive.
